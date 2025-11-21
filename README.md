@@ -36,4 +36,4 @@ CÁCH HOẠT ĐỘNG
 
    Mật khẩu: 123
 
-. Để truy cập trang người dùng, sử dụng URL: http://localhost/bansach/index/Trangchu.php
+9. Để truy cập trang người dùng, sử dụng URL: http://localhost/bansach/index/Trangchu.php
